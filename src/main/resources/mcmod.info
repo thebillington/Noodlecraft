@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noodlecraft",
+  "name": "Noodlecraft",
+  "description": "Welcome to the Noodlecraft Minecraft Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://rebleton.com/noodlecraft",
+  "updateUrl": "",
+  "authorList": ["thebillington", "mattioso"],
+  "credits": "The Forge and FML team for providing example Mod code, and MrCrayFish for his informative tutorials.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
