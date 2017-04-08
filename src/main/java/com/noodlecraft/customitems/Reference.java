@@ -31,4 +31,24 @@ public class Reference {
 		
 	}
 	
+	public static enum CustomBlocks {
+		RUBIKS("rubiks", "BlockRubiks");
+		
+		private String unlocalizedName;
+		private String registryName;
+		
+		CustomBlocks(String unlocalizedName, String registryName) {
+			this.unlocalizedName = unlocalizedName;
+			this.registryName = registryName;
+		}
+		
+		public String getUnlocalizedName() {
+			return unlocalizedName;
+		}
+		
+		public String getRegistryName() {
+			return registryName;
+		}
+	}
+	
 }
