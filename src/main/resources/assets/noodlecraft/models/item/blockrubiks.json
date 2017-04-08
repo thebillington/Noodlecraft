@@ -1,6 +1,6 @@
 {
-    "parent": "builtin/generated",
+    "parent": "block/cube_all",
     "textures": {
-        "layer0": "noodlecraft:blocks/rubiks"
+        "all": "noodlecraft:blocks/rubiks"
     }
 }
